@@ -8,6 +8,7 @@ public class Movie {
         //min
         //movie
 
-        //This is my awesome stuff from the master
+        //added some awesome functionality
+        // done with tc100
     }
 }
