@@ -7,5 +7,7 @@ public class Movie {
         //decide
         //min
         //movie
+
+        //This is my awesome stuff from the master
     }
 }
