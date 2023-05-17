@@ -7,5 +7,6 @@ public class Conflict {
     // I can type anything I want here
     //and it will become final merge result
 //This is collection branch content
+    // More Work on Collection2
 
 }
